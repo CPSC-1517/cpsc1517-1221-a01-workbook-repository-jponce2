@@ -1,6 +1,6 @@
 # CPSC1517 Winter 2023 Term Workbook
 
-## your name here
+## John Joshua Ponce
 
 ## your Github Account id
 
