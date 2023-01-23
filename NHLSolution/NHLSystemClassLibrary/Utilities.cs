@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace NhlSystemClassLibrary
 {
-    public enum Conference
+    internal static class Utilities
     {
-        Eastern,
-        Western
+        static public bool IsPositiveOrZero(int value)
+        {
+            return value >= 0;
+        }
     }
 }

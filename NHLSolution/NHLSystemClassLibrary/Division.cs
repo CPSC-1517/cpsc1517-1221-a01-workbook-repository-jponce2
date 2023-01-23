@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace NhlSystemClassLibrary
 {
-    public enum Conference
+    public enum Division
     {
-        Eastern,
-        Western
+        Atlantic,
+        Central,
+        Metropolitan,
+        Pacific
     }
 }
